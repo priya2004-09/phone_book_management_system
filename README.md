@@ -13,10 +13,10 @@ Modular Architecture: Cleanly separated code into headers, operations, and execu
 phone_book/
 │
 ├── phone_book/
-│   ├── phone_book.h       # Header file containing structure definitions and function prototypes[cite: 1]
-│   ├── operations.c       # Core logic implementation for add, search, update, and delete functions[cite: 1]
-│   ├── phonebook.c        # Main application flow and menu handler[cite: 1]
-│   └── main.c             # Entry point of the program[cite: 1]
+│   ├── phone_book.h       # Header file containing structure definitions and function prototypes
+│   ├── operations.c       # Core logic implementation for add, search, update, and delete functions
+│   ├── phonebook.c        # Main application flow and menu handler
+│   └── main.c             # Entry point of the program
 │
-├── contact.txt            # Data file used for persistent contact storage[cite: 1]
-└── a. out.txt             # Compiled output logs or build records[cite: 1]
+├── contact.txt            # Data file used for persistent contact storage
+└── a. out.txt             # Compiled output logs or build records

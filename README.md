@@ -9,14 +9,7 @@ Contact Management: Easily add, update, and delete contact entries.
 Search Capabilities: Quickly look up saved contacts using specific identifiers or names.
 Persistent Storage: Automatically saves and loads contact records using local text files.
 Modular Architecture: Cleanly separated code into headers, operations, and execution logic for better maintainability and code readability.
-# Project Structure
-phone_book/
-│
-├── phone_book/
-│   ├── phone_book.h       # Header file containing structure definitions and function prototypes
-│   ├── operations.c       # Core logic implementation for add, search, update, and delete functions
-│   ├── phonebook.c        # Main application flow and menu handler
-│   └── main.c             # Entry point of the program
-│
-├── contact.txt            # Data file used for persistent contact storage
-└── a. out.txt             # Compiled output logs or build records
+# Developed by
+Yeluguri Priyanka
+
+Project: Phone book management system
